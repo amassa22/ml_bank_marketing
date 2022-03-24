@@ -1,5 +1,4 @@
-# ml_bank_marketing
-ML Model for Bank Marketing Dataset
+# Machine Learning Model for Bank Marketing Dataset
 
 Data used for this project is taken from UC Irvine Machine Learning Repository https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
